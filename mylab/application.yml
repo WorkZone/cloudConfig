@@ -5,5 +5,5 @@ eureka:
       defaultZone: http://localhost:6011/eureka/
 ---
 spring:
-  profiles: subject
+  profiles: eurekasubject
 words: I,You,He,She,It
