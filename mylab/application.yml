@@ -6,4 +6,5 @@ eureka:
 ---
 spring:
   profiles: eurekasubject
-words: I,You,He,She,It
+#words: I,You,He,She,It
+words: Battery,Monitor,Mobile,IBM,HTC
