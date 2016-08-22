@@ -1,0 +1,9 @@
+---
+spring:
+  profiles: dev
+word: This is DEV
+  
+---
+spring:
+  profiles: uat
+words: This is UAT
