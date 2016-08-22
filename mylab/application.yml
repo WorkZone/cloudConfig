@@ -1,4 +1,9 @@
+---
 eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:6011/eureka/
+---
+spring:
+  profiles: subject
+words: I,You,He,She,It
