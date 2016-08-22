@@ -6,4 +6,4 @@ word: This is DEV
 ---
 spring:
   profiles: uat
-words: This is UAT
+word: This is UAT
